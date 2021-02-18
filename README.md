@@ -12,6 +12,8 @@
 * ```git clone  https://github.com/Th3HaXor/Cl0N3.007```
 * ```cd Cl0N3.007```
 * ```python2 nur.py```
+* ```User: X007```
+* ```Pass: HaXor```
 ## [~] Login,Cracking & Enjoy!
 ### Or ; Use Single Command
 ```
